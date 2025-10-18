@@ -44,7 +44,7 @@ Output:
 }```
 
 ### 🚫 SPAM EXAMPLES
-**Example 1 – SPAM**
+**Example 3 – SPAM**
 Post:
 > I’m a freelance designer available for work! DM me for logos or ads 🔥
 Output:
@@ -55,7 +55,7 @@ Output:
   "Reason": "This is self-promotion, not a potential client request."
 }``` 
 
-**Example 2 – SPAM**
+**Example 4 – SPAM**
 Post:
 > Follow me for daily marketing tips and free AI design tools! 🚀
 Output:
